@@ -22,7 +22,7 @@
 
 `waiter1_name`  `num_of_customers_handled` `customer1_name` `appetizer1_1` `meal1_1` `dessert1_1` `customer2_name` `appetizer2_1` `meal2_1` `dessert2_1` ...
 
-=> `waiter1_name` has  to serve `num_of_customers_handled` customers who are `customer1_name`, `customer2_name` ..., and the **serving order has to follow the ordering order**, namely `appetizeri_1` `meali_1` `desserti_1` for `customeri_name`.
+=> `waiter1_name` has  to serve `num_of_customers_handled` customers who are `customer1_name`, `customer2_name` ... The **serving order has to follow the ordering order**, namely `appetizeri_1` `meali_1` `desserti_1` for `customeri_name`; The 
 
 ### For example:
 
@@ -39,6 +39,7 @@ https://user-images.githubusercontent.com/84282744/185836584-a01f2234-9d2e-4af9-
 
 Outputs Screenshots
 ---
+**left**: outputs for [minions.txt]([minions.txt) vs **right**: outputs for [general.txt](general.txt)
 <p float="left">
     <img src="minions_out.png">
     <img src="general_out.png">
