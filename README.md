@@ -6,6 +6,8 @@
 * The [src/restaurant](src/restaurant) contains 4 java files, [Restaurant](src/restaurant/Restaurant.java), [Customer](src/restaurant/Customer.java), 
  [Table](src/restaurant/Table.java), and [Waiter](src/restaurant/Waiter.java), and the `main()` method is inside [Restaurant](src/restaurant/Restaurant.java)
 * The [doc](doc) contains the Jaca Docs for all the aforementioned java files.
+* [minions_out.png](minions_out.png) / [general_out.png](general_out.png) are the screenshots of example outputs from **[Restaurant.jar](Restaurant.jar)**
+
 
 ## Details:
 1. **[Restaurant](src/restaurant/Restaurant.java)** : takes in a `.txt` file in the same directory and start the restaurant service simulation
@@ -35,6 +37,9 @@
 https://user-images.githubusercontent.com/84282744/185836584-a01f2234-9d2e-4af9-a9d2-3393e99ee233.mp4
 
 
-
-
-
+Outputs Screenshots
+---
+<p float="left">
+    <img src="minions_out.png">
+    <img src="general.png">
+</p>
