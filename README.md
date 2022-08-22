@@ -41,5 +41,5 @@ Outputs Screenshots
 ---
 <p float="left">
     <img src="minions_out.png">
-    <img src="general.png">
+    <img src="general_out.png">
 </p>
