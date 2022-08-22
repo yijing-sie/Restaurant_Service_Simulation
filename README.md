@@ -21,6 +21,7 @@
 For example:
 ---
 1
-Bob 2 Phil bread pizza banana_bread Jerry chips_and_salsa tacos banana_flan 
 
-**NOTE**: Each waiter has to serve each customer courses in the order of meal1, meal2, meal3
+`Bob` ``2 `Phil` `bread` `pizza` `banana_bread` `Jerry` `chips_and_salsa` `tacos` `banana_flan` 
+
+**NOTE**: Each waiter has to serve each customer courses in the order of `meal1`, `meal2`, `meal3`
