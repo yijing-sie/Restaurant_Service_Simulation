@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"restaurant","l":"Customer"},{"p":"restaurant","l":"Restaurant"},{"p":"restaurant","l":"Table"},{"p":"restaurant","l":"Waiter"}]
