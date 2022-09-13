@@ -24,7 +24,7 @@
 
 => `waiter1_name` has  to serve `num_of_customers_handled` customers who are `customer1_name`, `customer2_name` ...  and the **serving order has to follow the ordering order**, namely `appetizeri_1` `meali_1` `desserti_1` for `customeri_name`;  
 
-### For example:
+For example:
 
 
 `Bob` `2` `Phil` `bread` `pizza` `banana_bread` `Jerry` `chips_and_salsa` `tacos` `banana_flan` 
