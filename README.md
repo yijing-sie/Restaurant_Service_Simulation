@@ -10,9 +10,9 @@
 
 
 ## Details:
-1. **[Restaurant](src/restaurant/Restaurant.java)** : takes in a `.txt` file in the same directory and start the restaurant service simulation
-2. **[Customer](src/restaurant/Customer.java)**: contains a synchronization object for multi-threading and a `Customer` object that simulates a customer behavior of consuming three courses in the specified order according the  `.txt` file
-3. **[Waiter](src/restaurant/Waiter.java)**: contains a synchronization object for multi-threading and a `Waiter` object that simulates a waiter behavior of serving courses in the specified order according the  `.txt` file.
+1. **[Restaurant](src/restaurant/Restaurant.java)** : takes in a `.txt` file in the same directory and starts the restaurant service simulation
+2. **[Customer](src/restaurant/Customer.java)**: contains a synchronization object for multi-threading and a `Customer` object that simulates a customer behavior of consuming three courses in the specified order according to the  `.txt` file
+3. **[Waiter](src/restaurant/Waiter.java)**: contains a synchronization object for multi-threading and a `Waiter` object that simulates a waiter's behavior of serving courses in the specified order according the  `.txt` file.
 4. **[Table](src/restaurant/Table.java)**: contains a `Table` object simulating a table where the served courses are placed
 5. **[minions.txt](minions.txt)** / **[general.txt](general.txt)** : 
 
@@ -22,11 +22,10 @@
 
 `waiter1_name`  `num_of_customers_handled` `customer1_name` `appetizer1_1` `meal1_1` `dessert1_1` `customer2_name` `appetizer2_1` `meal2_1` `dessert2_1` ...
 
-=> `waiter1_name` has  to serve `num_of_customers_handled` customers who are `customer1_name`, `customer2_name` ... The **serving order has to follow the ordering order**, namely `appetizeri_1` `meali_1` `desserti_1` for `customeri_name`; The 
+=> `waiter1_name` has  to serve `num_of_customers_handled` customers who are `customer1_name`, `customer2_name` ...  and the **serving order has to follow the ordering order**, namely `appetizeri_1` `meali_1` `desserti_1` for `customeri_name`;  
 
 ### For example:
 
-1
 
 `Bob` `2` `Phil` `bread` `pizza` `banana_bread` `Jerry` `chips_and_salsa` `tacos` `banana_flan` 
 
